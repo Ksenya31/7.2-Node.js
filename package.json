@@ -8,7 +8,7 @@
     "eslint": "eslint",
     "prettier": "prettier"
   },
-  "author": "",
+  "author": "ksenya",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^12.2.0",
